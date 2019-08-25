@@ -1,0 +1,1 @@
+{"version":2,"macros":[{"umid":"f74dd554-d6e0-457c-a290-9d50ee90e1f5","keyCode":47,"repeat":false,"command":{"command":"/yyssb toggle","type":"string"},"active":true},{"umid":"eb73f434-2aeb-4886-b5a1-c5bff2d2d613","keyCode":20,"repeat":false,"command":{"command":"/vc o mainmenu","type":"string"},"active":true}],"layers":[]}
