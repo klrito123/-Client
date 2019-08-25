@@ -15,7 +15,7 @@ difficulty:2
 fancyGraphics:true
 ao:2
 renderClouds:true
-resourcePacks:["Minecraft-Mod-Language-Modpack.zip","[ÐÇ¿Õ²ÄÖÊ°ü]Custom Sky (No stars at daytime).zip"]
+resourcePacks:["Minecraft-Mod-Language-Modpack.zip","Custom Sky (No stars at daytime).zip"]
 incompatibleResourcePacks:[]
 lastServer:
 lang:zh_cn
