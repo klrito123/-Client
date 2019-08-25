@@ -1,0 +1,5 @@
+光影请依据个人电脑配置使用
+玩家商店上架方式为/um add [价格]
+主菜单为C键，将鼠标移动到按钮无需点击松开C键即可，鼠标左右键为切换菜单
+匠魂工具发白解决方法：将.minecraft\mods\1.12.2\【C】[材质修复]TexFix+V-1.12-4.0.jar文件删除即可
+在.minecraft\config\Quick Easy Menu\local\default.cfg中搜索[password]将其替换为登录密码即可使用主菜单登录
