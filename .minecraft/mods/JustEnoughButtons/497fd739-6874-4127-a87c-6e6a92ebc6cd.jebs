@@ -1,0 +1,50 @@
+# JustEnoughButtons Save file for God_DIM, 497fd739-6874-4127-a87c-6e6a92ebc6cd
+# Created Wed Jun 19 18:28:23 CST 2019
+# WARNING: Modifying this file might result in crashes!
+MainInv:{id:"minecraft:diamond_sword",Count:1b,Damage:2s}
+MainInv:{id:"minecraft:spawn_egg",Count:1b,tag:{EntityTag:{id:"minecraft:zombie"}},Damage:0s}
+MainInv:{id:"minecraft:bow",Count:1b,Damage:4s}
+MainInv:{id:"minecraft:stick",Count:1b,Damage:0s}
+MainInv:{id:"minecraft:bone",Count:1b,Damage:0s}
+MainInv:{id:"minecraft:cooked_mutton",Count:62b,Damage:0s}
+MainInv:{id:"minecraft:torch",Count:1b,Damage:0s}
+MainInv:{id:"theoneprobe:probenote",Count:1b,Damage:0s}
+MainInv:{id:"minecraft:wooden_axe",Count:1b,Damage:0s}
+MainInv:{id:"minecraft:diamond_helmet",Count:1b,Damage:76s}
+MainInv:{id:"minecraft:diamond",Count:4b,Damage:0s}
+MainInv:{id:"minecraft:enchanted_book",Count:1b,tag:{StoredEnchantments:[{lvl:3s,id:34s}]},Damage:0s}
+MainInv:{id:"minecraft:enchanted_book",Count:1b,tag:{StoredEnchantments:[{lvl:3s,id:34s}]},Damage:0s}
+MainInv:{id:"minecraft:bucket",Count:1b,Damage:0s}
+MainInv:{id:"minecraft:rotten_flesh",Count:1b,Damage:0s}
+MainInv:{id:"minecraft:sand",Count:1b,Damage:0s}
+MainInv:{id:"minecraft:air",Count:1b,Damage:0s}
+MainInv:{id:"minecraft:air",Count:1b,Damage:0s}
+MainInv:{id:"minecraft:air",Count:1b,Damage:0s}
+MainInv:{id:"minecraft:air",Count:1b,Damage:0s}
+MainInv:{id:"minecraft:air",Count:1b,Damage:0s}
+MainInv:{id:"minecraft:air",Count:1b,Damage:0s}
+MainInv:{id:"minecraft:air",Count:1b,Damage:0s}
+MainInv:{id:"minecraft:air",Count:1b,Damage:0s}
+MainInv:{id:"minecraft:air",Count:1b,Damage:0s}
+MainInv:{id:"minecraft:air",Count:1b,Damage:0s}
+MainInv:{id:"minecraft:air",Count:1b,Damage:0s}
+MainInv:{id:"minecraft:air",Count:1b,Damage:0s}
+MainInv:{id:"minecraft:air",Count:1b,Damage:0s}
+MainInv:{id:"minecraft:air",Count:1b,Damage:0s}
+MainInv:{id:"minecraft:air",Count:1b,Damage:0s}
+MainInv:{id:"minecraft:air",Count:1b,Damage:0s}
+MainInv:{id:"minecraft:air",Count:1b,Damage:0s}
+MainInv:{id:"minecraft:air",Count:1b,Damage:0s}
+MainInv:{id:"minecraft:air",Count:1b,Damage:0s}
+MainInv:{id:"minecraft:air",Count:1b,Damage:0s}
+ArmoInv:{id:"minecraft:golden_boots",Count:1b,Damage:84s}
+ArmoInv:{id:"minecraft:golden_leggings",Count:1b,Damage:84s}
+ArmoInv:{id:"minecraft:diamond_chestplate",Count:1b,Damage:59s}
+ArmoInv:{id:"minecraft:air",Count:1b,Damage:0s}
+IconSta:{id:"minecraft:air",Count:0b,Damage:0s}
+OffHand:{id:"minecraft:air",Count:1b,Damage:0s}
+END SAVE
+EMPTY SAVE
+EMPTY SAVE
+EMPTY SAVE
+EOF
